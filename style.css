@@ -45,16 +45,19 @@
   display: flex;
 }
 
-#incomplete-tasks, #completed-tasks {
+#incomplete-tasks,
+#completed-tasks {
   margin: 0;
   padding: 0px;
 }
 
-.task-item, .completed-head {
+.task-item,
+.completed-head {
   list-style: none;
 }
 
-.input, .button{
+.input,
+.button{
   outline: none;
 }
 
