@@ -78,7 +78,8 @@
 /* Heading */
 
 .completed-head,
-.new-task-label {
+.new-task-head,
+.todo-head {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -107,7 +108,7 @@
 
 /* New Task */
 
-.new-task-label {
+.new-task-head {
   display: block;
   margin: 0 0 20px;
 }
