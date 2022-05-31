@@ -129,10 +129,6 @@
   align-items: center;
 }
 
-.task-item > * {
-  vertical-align: middle;
-}
-
 .task-item > .checkbox {
   margin: 0 10px;
 }
